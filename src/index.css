@@ -1,0 +1,15 @@
+html{
+  background-color: darkslategrey;
+}
+
+.Container-fluid
+{
+background-color: darkslategrey;
+}
+input[type='text']{
+  background-color: transparent;
+}
+input[type='text']::-moz-focus-inner{
+  background-color:transparent ;
+  color: white;
+}
